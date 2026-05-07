@@ -48,15 +48,15 @@
 
 ---
 
-### ✍️ Random Dev Quote
+### 📈 Contribution Graph
 
-![](https://quotes-github-readme.vercel.app/api?type=horizontal\&theme=tokyonight)
+[![Anubhav's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=LogicalDrift\&theme=github-compact)](https://github.com/LogicalDrift)
 
 ---
 
-### 🔝 Top Contributed Repo
+### ✍️ Random Dev Quote
 
-![](https://github-contributor-stats.vercel.app/api?username=LogicalDrift\&limit=5\&theme=onedark\&combine_all_yearly_contributions=true)
+![](https://quotes-github-readme.vercel.app/api?type=horizontal\&theme=tokyonight)
 
 ---
 
